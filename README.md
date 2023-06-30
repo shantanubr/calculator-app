@@ -1,4 +1,4 @@
-# calculator-app
+# Calculator App on HTML and JavaScript
 
 This is a simple calculator app built on plain HTML and vanilla javascript. It takes a string input using the number and operation buttons and outputs the calculation result on the click of '=' button.
 
